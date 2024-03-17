@@ -90,13 +90,13 @@ h1{
   display: inline-block;
   width: 50%;
   margin-left: 150px;
-  padding-top: 7px;
-  padding-bottom: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   padding-left: 45px;
   font-size: 15px;
 }
 
 .dweep-logo{
   height: 100%;
-  margin-left: 20%;
+  margin-left: 100px;
 }
