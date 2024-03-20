@@ -1,5 +1,6 @@
 *{
   font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
   margin: 0;
   padding: 0;
 }
@@ -76,12 +77,12 @@ h1{
   background-color: #282828;
   font-weight: 700;
   border-radius: 5px;
-  padding-top: 16px;
-  padding-bottom: 16px;
   padding-left: 20px;
-  padding-right: 20px; 
+  padding-right: 20px;
+  padding-top: 18px;
+  padding-bottom: 18px; 
   margin-left: 10px;
-  border: 1px solid black;
+  border: 0;
 }
 
 .usage {
